@@ -89,6 +89,8 @@ playground.xcworkspace
 *.pem
 *.p12
 *.key
+.dmg_config
+.dmg_staging/
 
 # Logs
 *.log
